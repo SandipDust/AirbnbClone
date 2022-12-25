@@ -11,6 +11,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   <li>Tailwind CSS</li>
   <li>Node Js</li>
   <li>Express Js</li>
+  <li>Vercel for hosting/deployment</li>
 
 </ul>
 
