@@ -2,6 +2,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+<h2>Tech Used</h2>
+<ul>
+  <li>Next Js</li>
+  <li>React Js</li>
+  <li>Tailwind CSS</li>
+  <li>Node Js</li>
+  <li>Express Js</li>
+
+</ul>
+
+
 First, run the development server:
 
 ```bash
