@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+
+
+<b>Take a look at the app </b> -> https://airbnb-clone-3nzpffcq1-sandipdust.vercel.app/
 
 <h2>Tech Used</h2>
 <ul>
@@ -12,7 +14,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 </ul>
 
-
+## Getting Started
 First, run the development server:
 
 ```bash
