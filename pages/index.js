@@ -76,7 +76,7 @@ export default function Home({data}) {
 
 
 export async function getStaticProps(){
-  const data = await fetch('http://localhost:8080/exploredata')
+  const data = await fetch('https://airbnb-vercel-server.vercel.app/exploredata')
   .then((res) => res.json())
   
   

@@ -65,7 +65,7 @@ export default Search;
 
 
 export async function getServerSideProps() {
-  const searchResults = await fetch('http://localhost:8080/exploredata')
+  const searchResults = await fetch('https://airbnb-vercel-server.vercel.app/exploredata')
   .then((res) => res.json())
 
   return{
